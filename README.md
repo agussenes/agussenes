@@ -1,5 +1,7 @@
 # 👨‍💻 Agustín Senestrari — Full-Stack Developer
 
+🌐 **Language:** English | [Español](./README.es.md)
+
 **JavaScript · TypeScript · React.js · Next.js · Node.js · Express.js**
 
 Full-Stack Developer focused on the JavaScript/TypeScript ecosystem, building end-to-end web solutions from architecture and development to infrastructure, deployment, and production maintenance.
@@ -10,7 +12,7 @@ Currently responsible for the development area at **Usina Creativa**, while also
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 
 I work across the complete development lifecycle: requirements analysis, architecture decisions, frontend and backend development, databases, infrastructure, CI/CD, deployment, monitoring, and maintenance.
 
@@ -71,7 +73,7 @@ One of the internal platforms I developed automated a previously manual operatio
 
 ---
 
-## 🏗️ What I work on
+## 🏗️ What I Work On
 
 My main focus is building maintainable, production-ready solutions using the technology that best fits each project's requirements.
 
@@ -117,7 +119,7 @@ Beyond application development, I integrate technical SEO and analytics accordin
 
 ⚙️ **University Diploma in DevOps** — UNC · FCEFyN · Mundos E
 
-🌎 **English: A2+**, actively progressing toward B1
+🌎 **English: A2+** — actively progressing toward B1
 
 I continuously explore new tools, architectures, and development practices to improve the way I design and build software.
 
