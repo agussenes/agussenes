@@ -1,102 +1,140 @@
-# 👨‍💻 Desarrollador Web Full-Stack MERN  
+# 👨‍💻 Agustín Senestrari — Full-Stack Developer
 
-🚀 **MongoDB | Express | React | Node.js | MySQL**
+**JavaScript · TypeScript · React.js · Next.js · Node.js · Express.js**
 
----
+Full-Stack Developer focused on the JavaScript/TypeScript ecosystem, building end-to-end web solutions from architecture and development to infrastructure, deployment, and production maintenance.
 
-### 💼 Sobre mí
+Currently responsible for the development area at **Usina Creativa**, while also building independent projects through **Senestrari Dev**.
 
-Soy **Agustín Senestrari**, desarrollador web Full-Stack especializado en el **stack MERN** y tecnologías modernas de desarrollo.  
-
-Actualmente trabajo como desarrollador web en la agencia de comunicación **[Usina Creativa](https://usinacreativa.com.ar)** y también de forma autónoma en mi propio emprendimiento: **[Senestrari Dev](https://senestraridev.com)**.  
-
-Tengo experiencia comprobable en el desarrollo de:
-- Sitios institucionales  
-- Portfolios  
-- Landing pages  
-- Paneles administrativos  
-- Soluciones a medida  
+🌐 [Portfolio](https://senestraridev.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/agustin-senestrari/)
 
 ---
 
-### 🧰 Tecnologías que utilizo
+## 🚀 About me
 
-#### 🖥️ Front-End
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+I work across the complete development lifecycle: requirements analysis, architecture decisions, frontend and backend development, databases, infrastructure, CI/CD, deployment, monitoring, and maintenance.
+
+Throughout my professional experience, I have worked on **30+ projects**, including:
+
+- Full-stack web applications
+- Internal management platforms
+- REST APIs
+- Administration dashboards
+- E-commerce platforms
+- Institutional websites and landing pages
+- Third-party integrations and automation
+
+I regularly work directly with clients, translating business requirements into technical solutions and collaborating with design teams throughout the development process.
+
+One of the internal platforms I developed automated a previously manual operational workflow, **reducing the time spent on that task by approximately 45%** and allowing users to focus on higher-value activities.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
-#### ⚙️ Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![PHPMailer](https://img.shields.io/badge/PHPMailer-003366?logo=maildotru&logoColor=white)
-![Slim4](https://img.shields.io/badge/Slim4_PHP-4A90E2?logo=php&logoColor=white)
 
-#### 🧩 WordPress
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
-![Divi](https://img.shields.io/badge/Divi-8B5CF6?logo=divi&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
-![WPBakery](https://img.shields.io/badge/WPBakery-0073AA?logo=wordpress&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO_Técnico-4285F4?logo=google&logoColor=white)
+**REST APIs · Authentication · Role-Based Access Control · SMTP integrations**
 
-#### 🗃️ Bases de Datos
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🧠 Herramientas
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+
+**AWS EC2 · Ubuntu Server · Docker · Nginx · PM2 · CI/CD · GitHub Actions**
 
 ---
 
-### 🛒 eCommerce y proyectos destacados
+## 🏗️ What I work on
 
-💼 Desarrollo de **plataformas eCommerce personalizadas** utilizando el stack MERN, con:
-- Gestión de productos  
-- Carrito de compras  
-- Pagos integrados  
-- Autenticación de usuarios  
-- Paneles administrativos completos
+My main focus is building maintainable, production-ready solutions using the technology that best fits each project's requirements.
 
+I have experience with:
 
----
+- Modular full-stack architectures
+- Feature-based architectures
+- REST API design
+- Authentication and authorization systems
+- Role-based applications
+- SQL and NoSQL databases
+- Linux server configuration
+- Dockerized applications
+- Automated deployments with GitHub Actions
+- E-commerce and payment integrations
+- Shopify and Amazon Seller integrations
+- SMTP and Google Sheets automations
+- Technical SEO and performance optimization
+- GA4 and Google Tag Manager event tracking
 
-### 🌐 SEO Técnico
-
-Implemento buenas prácticas para optimizar:
-- **Velocidad de carga (Core Web Vitals)**
-- **Accesibilidad**
-- **Estructura semántica**
-- **Posicionamiento orgánico**
-
----
-
-### 💡 Más sobre mí
-
-Soy una persona **proactiva**, con gran capacidad de **adaptación**, disfruto del **trabajo en equipo** y también puedo llevar proyectos **de forma autónoma**.  
-Me caracterizo por aprender rápido y estar en **constante búsqueda de mejora profesional**.
-
-📚 Actualmente estudio **inglés** con clases semanales y práctica continua nivel actual: **A2**.
-
+I also maintain and evolve existing **WordPress/PHP** projects when required.
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+## 📈 SEO, Performance & Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agussenes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agussenes&layout=compact&theme=tokyonight)
+Beyond application development, I integrate technical SEO and analytics according to each project's needs:
+
+- Technical SEO
+- Core Web Vitals & performance optimization
+- Structured data
+- Accessibility and semantic structure
+- Google Analytics 4
+- Google Tag Manager
+- Custom event and conversion tracking
+- Search and AI-oriented discoverability
 
 ---
 
-### ✉️ Contacto
+## 🎓 Currently Learning
 
-📧 [agustinsenestrari99@gmail.com](mailto:agustinsenestrari99@gmail.com)  
-🌐 [senestraridev.com](https://senestraridev.com)
+📚 **Higher Technical Degree in Software Development** — Instituto Superior Pascal
+
+⚙️ **University Diploma in DevOps** — UNC · FCEFyN · Mundos E
+
+🌎 **English: A2+**, actively progressing toward B1
+
+I continuously explore new tools, architectures, and development practices to improve the way I design and build software.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agussenes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agussenes&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+🌐 **Portfolio:** [senestraridev.com](https://senestraridev.com/)
+
+💼 **LinkedIn:** [linkedin.com/in/agustin-senestrari](https://www.linkedin.com/in/agustin-senestrari/)
+
+📧 **Email:** [agustinsenestrari99@gmail.com](mailto:agustinsenestrari99@gmail.com)
