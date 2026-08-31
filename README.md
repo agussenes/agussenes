@@ -16,7 +16,7 @@ Currently responsible for the development area at **Usina Creativa**, while also
 
 I work across the complete development lifecycle: requirements analysis, architecture decisions, frontend and backend development, databases, infrastructure, CI/CD, deployment, monitoring, and maintenance.
 
-Throughout my professional experience, I have worked on **30+ projects**, including:
+Throughout my professional experience, I have worked on **40+ projects**, including:
 
 - Full-stack web applications
 - Internal management platforms
