@@ -16,7 +16,7 @@ Actualmente soy responsable del área de desarrollo en **Usina Creativa** y, en 
 
 Trabajo a lo largo de todo el ciclo de desarrollo: relevamiento de requerimientos, decisiones de arquitectura, desarrollo frontend y backend, bases de datos, infraestructura, CI/CD, despliegue, monitoreo y mantenimiento.
 
-A lo largo de mi experiencia profesional participé en **más de 30 proyectos**, entre ellos:
+A lo largo de mi experiencia profesional participé en **más de 40 proyectos**, entre ellos:
 
 - Aplicaciones web full-stack
 - Plataformas internas de gestión
